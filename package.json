@@ -1,0 +1,22 @@
+{
+  "name": "swimlanes_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbarmann/swimlanes_test.git"
+  },
+  "author": "Timothy Barmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tbarmann/swimlanes_test/issues"
+  },
+  "homepage": "https://github.com/tbarmann/swimlanes_test#readme",
+  "dependencies": {
+    "eslint": "^2.6.0"
+  }
+}
